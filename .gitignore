@@ -221,3 +221,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local datasets - do not commit
+data/raw/*
+data/processed/*
+data/external/*
